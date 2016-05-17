@@ -1,0 +1,33 @@
+{
+  "name": "clipstest",
+  "description": "A simple starter Angular2 project",
+  "main": "",
+  "authors": [
+    "Rob Wormald <robwormald@gmail.com>",
+    "PatrickJS <github@gdi2290.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular2",
+    "angular2-seed",
+    "official",
+    "angular",
+    "2",
+    "seed",
+    "official",
+    "angular2",
+    "seed"
+  ],
+  "homepage": "https://github.com/jjarrell50/angular2-seed-test",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-button": "PolymerElements/paper-button#^1.0.11"
+  }
+}
