@@ -40,7 +40,11 @@
     "@angular/router-deprecated": "2.0.0-rc.1",
     "core-js": "^2.2.0",
     "rxjs": "5.0.0-beta.6",
-    "zone.js": "~0.6.12"
+    "zone.js": "~0.6.12",
+
+    "moment": "^2.11.1",
+    "pouchdb": "^5.1.0",
+    "pouchdb-find": "^0.8.0"
   },
   "keywords": [
     "Angular2",
