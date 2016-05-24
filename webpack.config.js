@@ -8,6 +8,7 @@ var webpackConfig = {
     'polyfills': './src/polyfills.ts',
     'vendor':    './src/vendor.ts',
     'app':       './src/app.ts',
+    'polymer' :  './polymerimports.htmx'
   },
 
   output: {
@@ -22,6 +23,7 @@ var webpackConfig = {
     loaders: [
       // .ts files for TypeScript
       { test: /\.ts$/, loader: 'awesome-typescript-loader' },
+      { test: /\.htmx/, loader: "raw-loader" },
 
     ]
   }
