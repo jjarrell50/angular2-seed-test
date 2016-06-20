@@ -8,6 +8,7 @@ var webpackConfig = {
     'polyfills': './src/polyfills.ts',
     'vendor':    './src/vendor.ts',
     'app':       './src/app.ts',
+    'polymer':    './dist/polymerimports.html'
   },
 
   output: {
